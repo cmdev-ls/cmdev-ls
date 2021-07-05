@@ -16,10 +16,9 @@
 
 ## Currently Working On
 
-* A PoC for [Luigi](https://github.com/spotify/luigi) Pipeline
-* My garden
+* Dynamic versioning PoC to make packaging simpler
+* Signal container PoC to allow us to orchestrate our signals
 
 ## Currently Learning
 
-* Building Kubernetes test lab using [Vagrant](https://www.vagrantup.com/)
-* AWS Certification
+
