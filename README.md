@@ -16,8 +16,7 @@
 
 ## Currently Working On
 
-* Dynamic versioning PoC to make packaging simpler
-* Signal container PoC to allow us to orchestrate our signals
+* Orchestrating signals and other gubbins
 
 ## Currently Learning
 
